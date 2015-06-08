@@ -1,0 +1,50 @@
+Tubing Notcher
+==============
+
+.. image:: _images/tubenotcher3.jpg
+  :align: center
+  
+.. include:: <isonum.txt>
+  
+Overview
+--------
+
+The tubing notcher is a component tool designed to saddle cut pipe or tubing for applications such as railings.  
+
+Capacity and Materials
+----------------------
+
+1 1/4" Schedule 40 (.140" wall thickness) and 1 1/2" Schedule 40 (.145" wall thickness) are the maximum sizes that can be cut on this tool.
+
+.. warning:: **No stainless steel or chrome-moly (4130, 4140) is allowed on this tool**
+
+.. note:: Make sure you have the correct dies for your tubing size.  If not, ask the student shop staff to swap out the dies for you.
+
+Operation
+---------
+
+The operation of the tubing notcher consists of the following basic steps:
+
+1.	Make sure that the `stroke control`_ is set so that the `upper die only goes below the lower die`_ by 1/32".  This is **VERY** important.
+
+2.	Apply `Tap Magic`_ to the blades before making the first cut and every 10 to 15 cuts, thereafter.  This will reduce cutting tonnage and increase blade life.
+
+3.	Apply way oil to the back and sides of the upper die.
+
+4.	The `selector arm`_ must be in the **SHEAR** position.
+
+5.	Place the tube over the upper cutting die and resting on the lower die.
+
+6.	Keep your hands clear of all moving parts.
+
+7.	Depress the foot pedal and make the shear stroke.
+
+8.	Rotate the tube 180|deg|.
+
+9.	Depress the foot pedal and make the shear stroke.
+
+.. _`stroke control`: _images/strokecontrol.jpg
+.. _`upper die only goes below the lower die`: _images/tubenotcher2.jpg
+.. _`Tap Magic`: _images/tapmagic.jpg
+.. _`selector arm`: _images/levershear.jpg
+

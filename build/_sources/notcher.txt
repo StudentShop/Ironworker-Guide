@@ -1,0 +1,30 @@
+Notcher
+=======
+
+.. image:: _images/copernotchernoguard.jpg
+  :align: center
+  
+This tool is operated with the selector lever in the **PUNCH** position.
+
+.. warning:: When the notcher station is not in use, be sure that the guard is in the furthermost down position, to prevent anyone from storing tools or material on the table or in the blade cavity.
+
+Material and Capacity
+---------------------
+.. include:: <isonum.txt>
+
+.. Note:: Notching applications up to 2 1/2" x 3" x 5/16" (65 x 75 x 8mm) rectangular and 2 1/2" x 2 1/2" (64 x 64mm) 90 degree V notch in 5/16" (8mm) MILD STEEL is the maximum capacity of this section of the macine.**
+
+.. warning:: No stainless steel or hardened steel on this section of the machine
+
+
+Operation
+---------
+
+1. This tool is operated with the selector lever in the **PUNCH** position.
+
+2. Lift the guard.
+
+3. Place the workpiece between the blades.  Cycle the machine until the blades have sheared through the material.  Continue to hold your foot on the pedal while you remove the material toward you on a horizontal plane.
+
+4. Once the material is away from the blades, remove your foot from the pedal.  The machine will return to a neutral position, ready for the next cut.
+

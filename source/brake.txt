@@ -1,0 +1,42 @@
+Brake
+=====
+
+.. image:: _images/brake.jpg
+  :align: center
+
+Overview
+--------
+
+The brake is used to bend and form flat stock to a desired angle.
+
+Capacity and Material
+---------------------
+
+This tool has a **MAXIMUM CAPACITY** of 1/4" x 12" MILD STEEL ONLY.
+
+.. warning:: No stainless steel on this tool
+
+
+Operation
+---------
+.. include:: <isonum.txt>
+
+1. Hold short material with tongs or similar devices.
+
+2. When using the brake, make sure to load the brake centrally (visual centering is sufficient).  If work is performed off-center, the guide pins could become damaged.  The brake lift is provided by springs.  If sticking occurs at the bottom of the stroke and the upper die does not return, usually a slight tap on the upper die is sufficient to free the guides.
+
+3. Adjust the :doc:`stroke control <stroke>` if the required bend is less than 90|deg|.
+
+4. Make sure the `selector arm`_ is in the **SHEAR** position.
+
+5. Depress the foot pedal until the desired bend is achieved.
+
+Back Gauge
+----------
+.. image: _images/brakeback.jpg
+  :align: center
+  
+The back gauge can be used to align the stock to be bent with a marked line easily.
+
+.. _`selector arm`: _images/levershear.jpg
+

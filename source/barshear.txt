@@ -1,0 +1,60 @@
+Bar Shear
+=========
+
+.. image:: _images/barshearholddown.jpg
+  :align: center
+  
+  
+When using the bar shear, you **MUST** use the `hold-down device`_.  **NEVER** put any part of your body between the `hold-down device`_ and the material to be sheared.  A clearance of 1\/16th |lpar|\ .0625\ |rpar| of an inch between the `hold-down device`_ and the material to be sheared is acceptable.  The maximum tonnage available is to the left, closest to the pivot point.  For applications that do not require the maximum tonnage, move the material to the right, for minimal distortion of the drop-off piece.  **DO NOT** attempt to shear pieces that are too short for the `hold-down device`_ to grip.  This will cause the material to kick up and will result in a poor quality cut and possible damage to the machine.
+
+.. _`hold-down device`: _images/holddown.jpg
+
+Material and Capacity
+---------------------
+.. include:: <isonum.txt>
+
+The capacity of the bar shear is as follows *(for Mild Steel)*
+
+3\/4\ |quot| x 4\ |quot|
+
+1\/2\ |quot| x 8\ |quot|
+
+3\/8\ |quot| x 10\ |quot|
+
+1\/4\ |quot| x 14\ |quot|
+
+
+.. warning:: Remember that **NO HARDENED STEEL** is allowed on this machine.
+**MAX CAPACITY FOR STAINLESS STEEL IS 1/4" x 6"**
+
+
+Laser Light
+-----------
+
+.. image:: _images/laserlight3.jpg
+  :align: center
+  
+  
+The laser light will automatically turn on for the bar shear as long as it is plugged in.  It can be used to align your material with pre-scribed or marked lines for accurate cuts.  It projects across the entire width of the blade \(14\ |quot|\).
+  
+Operation
+---------
+The operation of the bar shear consists of the following basic steps:
+
+1.	Apply `Tap Magic`_ to the blades before making the first cut and every 10 to 15 cuts, thereafter.  This will reduce cutting tonnage and increase blade life.
+
+2.	The `selector arm`_ must be in the **SHEAR** position.
+
+3.	Place the material under the `hold-down device`_ between the shear blades.
+
+4.	Crank the `hold-down device`_ down to the material.  This prevents kick-up of the material, which could cause injury to the operator and damage to the machine.
+
+5.	Keep your hands clear of all moving parts.
+
+6.	Depress the foot pedal and make the shear stroke.
+       
+Make sure to have a bucket or some way to catch the drop-off piece to prevent the material from falling onto the concrete floor.
+
+.. _`Tap Magic`: _images/tapmagic.jpg
+.. _`selector arm`: _images/controlpanel.jpg
+

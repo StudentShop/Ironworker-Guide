@@ -1,0 +1,30 @@
+Start-up
+========
+
+.. include:: <isonum.txt>
+
+The Control Panel
+-----------------
+   
+.. image:: _images/controlpanel2.jpg
+      :align: center
+
+The control panel on the Scotchman 50514-CM has several parts.  First, the main disconnect switch is in the upper right hand corner.  To the immediate left of main disconnect switch, the emergency stop button can be found.  Directly below the emergency stop is the start button.
+In the lower left of the front panel of the Scotchman 50514-CM, the Punch and Shear select lever is found.
+
+   .. warning:: Moving the Punch and Shear selector arm with the machine off will cause the machine to move **IMMEDIATELY** upon start up.
+
+Proper Start-Up Procedure is as follows:
+
+1. Before powering on the machine, make sure that all punches and die stations, shear and notching stations are aligned and clear of all tools and material.
+
+2. Unlock the plug lockout container using the discovery center lock key \(Key 76\) and plug both the `laser light`_ plug \(110v\) and the ironworker plug \(208v\) to the Discovery Center workbench near the machine
+
+3. Turn the main disconnect switch to the ON position
+
+4. Pull the Red Emergency Stop button straight out
+
+5. Press the Green START button to turn on the machine
+
+.. _`laser light`: _images/laserlight.jpg
+

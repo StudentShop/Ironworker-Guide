@@ -1,0 +1,56 @@
+Angle Shear
+===========
+
+.. image:: _images/angleshear.jpg
+  :align: center
+  
+.. include:: <isonum.txt>
+
+Overview
+--------
+
+Apply `Tap Magic`_ to the upper and lower blades before the first cut is made and every 10 to 15 cuts, thereafter.  This reduces cutting tonnage and increases blade life.  The `selector arm`_ must be in the **SHEAR** position to operate this tool.
+
+.. _`Tap Magic`: _images/tapmagic.jpg
+.. _`selector arm`: _images/controlpanel.jpg
+
+Capacity and Material
+---------------------
+
+The capacity for this tool is as follows:
+
+4\ |quot| x 4\ |quot| x 3\/8\ |quot| at 90\ |deg| and 2\ |quot| x 2\ |quot| x 3\/8\ |quot| at 45\ |deg| **MILD STEEL ONLY!**
+
+.. warning:: Stainless steel and hardened steel are **NOT** to be cut on the angle shear!
+.. Note:: Only cut equal leg length angle iron on this machine. e.g., 1\ |quot| x 1\ |quot|, 2\ |quot| x 2\ |quot|, 3\ |quot| x 3\ |quot|, etc.
+
+Operation
+---------
+
+Use the following steps when using the Angle Shear tool:
+
+1. Feed the workpiece through the tool, keeping it horizontal with the tool.
+
+2. The :doc:`downstroke <stroke>` of the machine should be set for the size of the material being sheared.
+
+3. Depress the foot pedal and shear the material.  **Make sure you clear the slug from between the blades before moving onto the next cut!**
+
+
+Mitering
+--------
+
+.. image: _images/angleshearmiter.jpg
+  :align: center
+  
+To cut a 30\ |deg| or 45\ |deg| miter cut on angle iron, use the following steps:
+
+1. Move the metal peg on the front of the angle shear to the upper postion \(45\ |deg|\) or lower position \(30\ |deg|\) depending on your needs
+
+2. Lift up the guard on the angle shear
+
+3. Slide the angle iron into the shear as shown in the above figure
+
+4. Press down onto the foot pedal until the angle iron is completely sheared.
+
+.. note:: The maximum material for mitering is 2\ |quot| x 2\ |quot| x 3\/8\ |quot| at 45\ |deg| **MILD STEEL ONLY!**
+

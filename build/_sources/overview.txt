@@ -1,0 +1,132 @@
+Overview
+========
+.. include:: <isonum.txt>
+
+.. image:: _images/scotchman.jpg
+  :align: center
+  :alt: Scotchman Model 50514-CM Ironworker
+
+The Scotchman Model 50514-CM is a 50-Ton hydraulic powered ironworker.  This machine is capable of shearing, punching, bending, and coping plate.  It is also capable of notching tube and shearing angle iron at 90\ |deg| and 45\ |deg|
+
+Permitted Material
+------------------
+
+The Scotchman 50514-CM is to be used generally with mild steel.  It can also be used with non-ferrous metals such as aluminum and brass.  Using stainless steel with this machine is allowed, but with greater restrictions on capacity.  
+
+  .. warning:: Hardened steel and tool steels are **NEVER** to be used on this machine.  If you are unsure what type of material you have or if it can be used on the Scotchman, please ask Student Shop Staff.
+  
+Tool List
+---------
+
+Angle Shear
+***********
+
+.. image:: _images/angleshear.jpg
+
+Used for :doc:`shearing equal leg length angle iron </angleshear>`.
+
+Bar Shear
+*********
+
+.. image:: _images/barshearholddown.jpg
+
+Used for :doc:`shearing flat stock </barshear>`.
+
+Beam Pusher
+***********
+
+.. image:: _images/beampusher.jpg
+
+Used with the :doc:`tubing notcher </tubenotcher>`.
+
+Brake
+*****
+
+.. image:: _images/brake.jpg
+
+Used to :doc:`bend flat stock up to 1\/4\" thick </brake>`.
+
+Control Panel
+*************
+
+.. image:: _images/controlpanel2.jpg
+
+The control panel is where a number of important machine controls are located.  This includes the start button, punch and shear selector arm, emergency stop, and the main disconnect switch.  You should familiarlize yourself with these controls and their locations.
+
+Coper Notcher
+*************
+
+.. image:: _images/copernotchernoguard.jpg
+
+Used for :doc:`rectangular notching or v-notching </notcher>` of flat stock.
+
+Die
+***
+
+.. image:: _images/die.jpg
+
+Used in the :doc:`punching process </punch>`.
+
+Die Holder
+**********
+
+.. image:: _images/punchtable.jpg
+
+Used in the :doc:`punching process </punch>`.
+
+Hold-Down Device
+****************
+
+.. image:: _images/holddown.jpg
+
+Used in the :doc:`bar shearing </barshear>` process to clamp the workpiece to the table to prevent kick-up.
+
+Laser Light
+***********
+
+.. image:: _images/laserlight3.jpg
+
+Used on the :doc:`bar shear </barshear>` to align a mark on flat stock with the shear blade.
+
+Punch
+*****
+
+.. image:: _images/punch.jpg
+
+Used in the :doc:`punching process </punch>`.
+
+Punch Retaining Nut
+*******************
+
+.. image:: _images/retainingnut.jpg
+
+Used in the :doc:`punching process </punch>`.
+
+Spacer
+******
+
+.. image:: _images/riser.jpg
+
+Used in the :doc:`punching process </punch>`.
+
+Stripper
+********
+
+.. image:: _images/stripper.jpg
+
+Used in the :doc:`punching process </punch>`.
+
+Stroke Control
+**************
+
+.. image:: _images/strokecontrol.jpg
+
+Used to set the travel distance of the hydraulic ram.  Used in the :doc:`punching </punch>` and :doc:`tube notching </tubenotcher>` processes.
+
+Tube Notcher
+************
+
+.. image:: _images/tubenotcher.jpg
+
+Used to :doc:`notch tube </tubenotcher>` for welding.
+

@@ -1,0 +1,131 @@
+Punch
+=====
+
+.. image:: _images/punchstationwithstripper.jpg
+  :align: center
+
+THE FIRST AND MOST IMPORTANT PROCEDURE IS THE PROPER METHOD OF INSTALLING AND ALIGNING PUNCHES AND DIES.
+
+.. warning:: **MAKE SURE TO READ THIS ENTIRE PAGE FIRST BEFORE CONTINUING!!**
+
+.. Note:: Failure to properly align punches and dies can cause serious injury to personnel and/or damage to equipment.  Please read carefully and understand the following method.  It will also be helpful to refer to the safety tape provided for a visual reference.
+
+Alignment and Removal of Punches and Dies
+-----------------------------------------
+
+1. With the machine in the `**SHEAR**`_ position and the arms up, turn the machine's electrical power **OFF** at the `main disconnect switch`_.
+
+2. Remove the `stripper`_ by pressing down on the tab and pulling the stripper toward you.
+
+3. Loosen and remove the bolts holding the `die holder`_ and remove the die holder and `spacer`_.
+
+4. Loosen the set screw holding the `die`_.  Remove the die and set it aside.
+
+5. Loosen and remove the `punch retaining nut`_ and `punch`_.
+
+6. Select the proper punch and die.  Make sure that there is `proper clearance`_ between the punch and die.
+
+7. Clean both the punch and die.
+
+8. Insert the proper punch in the punch retaining nut and thread it into the `punch barrel`_ and tighten it with a wrench.
+
+.. warning:: If you are using a shaped punch, rotate the punch by hand until it seats on the `KEY`_, before tightening the punch retaining nut.
+
+9. Insert the proper die in the die holder with the flat side of the die aligned with the set screw.  Tighten the set screw firmly with a hex key wrench.  Make sure the die is in the proper orientation, e.g., not upside down.
+
+10. Place the die holder on the base and lift the die holder up so that the punch enters the die.
+
+11. Insert the spacer between the die holder and the base.
+
+12. Align the punch to the die so that there is equal clearance on all sides of the punch and die.
+
+13. Insert and tighten both the die holder bolts firmly.
+
+14. Check to be sure that the punch and die are still in alignment. Realign, if necessary.
+
+15. Replace the stripper.
+
+16. Check to make sure that there are no objects (such as tools) on or under any of the moving parts of the machine.
+
+17. Place the main disconnect switch in the **ON** position and make sure that the selector arm is still in the **SHEAR** position.
+
+18. Power the machine by pressing the `green START button`_.
+
+19. Place the `selector arm`_ in the **PUNCH** position.
+
+20. Spray Tap Magic on the punch and die before using and every 5 to 10 holes, thereafter.
+
+21. Depress the `foot pedal`_ until the hole is fully punched.
+
+2. Remove the punch and die when finished.
+
+.. _`main disconnect switch`: _images/controlpanel2.jpg
+.. _`stripper`: _images/stripper.jpg
+.. _`spacer`: _images/riser.jpg
+.. _`**SHEAR**`: _images/levershear.jpg
+.. _`die holder`: _images/punchtable.jpg
+.. _`die`: _images/die.jpg
+.. _`punch retaining nut`: _images/retainingnut.jpg
+.. _`punch`: _images/punch.jpg
+.. _`proper clearance`: _images/clearance.jpg
+.. _`punch barrel`: _images/punchstation.jpg
+.. _`key`: _images/key.jpg
+.. _`green START button`: _images/controlpanel.jpg
+.. _`selector arm`: _images/leverpunch.jpg
+.. _`foot pedal`: _images/punchfootpedal.jpg
+
+
+Check Punching Tools for Tightness
+----------------------------------
+
+Throughout the punching process, check the punch and die for alignment.
+
+To do this, place the selector arm in the **SHEAR** position and turn the main disconnect switch **OFF**.  
+
+Tighten the set screw holding the die, the die holder and the punch retaining nut.  Check the alignment of the punch and die.  Power the machine and jog the punch up and down several times, to be sure of proper alignment.  Place the selector arm in the **PUNCH** position.
+
+Contact Both Sides of the Stripper
+----------------------------------
+
+.. warning:: Punch holes with sufficient material to contact both sides of the punch stripper.  
+
+If the workpiece does not contact both sides of the stripper, the side thrust may break the punch and will deform the workpiece.
+
+Punching Capacities
+-------------------
+
+The following are **MAXIMUM PUNCH SIZES FOR MILD STEEL**
+
++---------------------------+------------+-------------------------+
+| Material Thickness (mm)   |            |  Diameter of Hole (mm)  |
++===========================+============+=========================+
+| 1/4"* / (6mm)             |            |        2 1/4"* / (57mm) |
++---------------------------+------------+-------------------------+
+| 5/16"* / (8mm)            |            |        2"* / (50mm)     |
++---------------------------+------------+-------------------------+
+| 3/8" / (10mm)             |            |        1 5/8" / (41mm)  |
++---------------------------+------------+-------------------------+
+| 1/2" / (12mm)             |            |        1 3/16" / (30mm) |
++---------------------------+------------+-------------------------+
+| 3/4" / (19mm)             |            |        3/4" / (19mm)    |
++---------------------------+------------+-------------------------+
+
+1. An asterisk (*) means that a special die holder must be used to punch this material.  If you are unsure, please see `Student Shop Staff. <http://coestudentshop.engr.wisc.edu/about/staff.php>`_
+
+.. warning:: If you need to punch any material that is not mild steel, please ask the student shop staff first!
+
+Important Things to Remember when Punching
+------------------------------------------
+
+1. The maximum material thickness that can be punched is 3/4"
+
+2. DO NOT punch material thicker than the diameter of the punch e.g., 1/4" punch and 1/2" material
+
+3. Punch full, complete holes.
+    a. The side thrust encountered in punching partial holes can force the punch over against the die and result in breakage.  **THIS MAY RESULT IN SERIOUS BODILY INJURY.**  Special nibbling punches and dies are available for punching into the edge of material.
+
+4. Maintain sufficient material between the punched hole and edge of the workpiece.
+    a. The edge of the punch should clear the edge of the workpiece by a distance equal to the thickness of the material.
+
+5. Do not work with dull or damaged tooling.
+

@@ -1,0 +1,21 @@
+Stroke Control
+==============
+
+.. image:: _images/strokecontrol.jpg
+  :align: center
+  
+Overview
+--------
+
+The stroke control can be used to eliminate excessive free travel and increase productivity.  Also, in tools such as the :doc:`tubing notcher <tubenotcher>` the stroke control needs to be used to ensure proper clearance and safety.
+
+Operation
+---------
+
+With the `selector arm in the **SHEAR** position`_, the top stroke control lever will determine how low the shear will go and the lower lever will determine how high up the shear will go.
+
+With the `selector arm in the **PUNCH** position`_, the top stroke control lever will determine how high the punch will go and the lower stroke control will determine how low the punch will go.
+
+.. _`selector arm in the **SHEAR** position`: _images/levershear.jpg
+.. _`selector arm in the **PUNCH** position`: _images/leverpunch.jpg
+
