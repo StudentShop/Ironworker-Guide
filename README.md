@@ -1,4 +1,4 @@
-# Quick start guide for the Ironworker-guide
+#Scotchman Ironworker Quick Start Guide
 
 ## What is it?
 
@@ -33,7 +33,7 @@ If you discover any errors, feel free to [create an issue](https://github.com/St
 
 ## Author
 
-* Mark Richardson (https://github.com/rmark66)
+* CoE Student Shop Staff
 
 ## License
 
