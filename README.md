@@ -1,5 +1,3 @@
-# ironworker-guide
-Scotchman Ironworker Guide
 # Quick start guide for the Ironworker-guide
 
 ## What is it?
