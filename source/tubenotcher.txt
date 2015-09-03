@@ -3,13 +3,13 @@ Tubing Notcher
 
 .. image:: _images/tubenotcher3.jpg
   :align: center
-  
+
 .. include:: <isonum.txt>
-  
+
 Overview
 --------
 
-The tubing notcher is a component tool designed to saddle cut pipe or tubing for applications such as railings.  
+The tubing notcher is a component tool designed to saddle cut pipe or tubing for applications such as railings.
 
 Capacity and Materials
 ----------------------
@@ -47,4 +47,3 @@ The operation of the tubing notcher consists of the following basic steps:
 .. _`upper die only goes below the lower die`: _images/tubenotcher2.jpg
 .. _`Tap Magic`: _images/tapmagic.jpg
 .. _`selector arm`: _images/levershear.jpg
-

@@ -35,8 +35,7 @@ Back Gauge
 ----------
 .. image: _images/brakeback.jpg
   :align: center
-  
+
 The back gauge can be used to align the stock to be bent with a marked line easily.
 
 .. _`selector arm`: _images/levershear.jpg
-

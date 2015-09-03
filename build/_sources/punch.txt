@@ -80,14 +80,14 @@ Check Punching Tools for Tightness
 
 Throughout the punching process, check the punch and die for alignment.
 
-To do this, place the selector arm in the **SHEAR** position and turn the main disconnect switch **OFF**.  
+To do this, place the selector arm in the **SHEAR** position and turn the main disconnect switch **OFF**.
 
 Tighten the set screw holding the die, the die holder and the punch retaining nut.  Check the alignment of the punch and die.  Power the machine and jog the punch up and down several times, to be sure of proper alignment.  Place the selector arm in the **PUNCH** position.
 
 Contact Both Sides of the Stripper
 ----------------------------------
 
-.. warning:: Punch holes with sufficient material to contact both sides of the punch stripper.  
+.. warning:: Punch holes with sufficient material to contact both sides of the punch stripper.
 
 If the workpiece does not contact both sides of the stripper, the side thrust may break the punch and will deform the workpiece.
 
@@ -128,4 +128,3 @@ Important Things to Remember when Punching
     a. The edge of the punch should clear the edge of the workpiece by a distance equal to the thickness of the material.
 
 5. Do not work with dull or damaged tooling.
-

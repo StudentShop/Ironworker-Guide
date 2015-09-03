@@ -3,7 +3,7 @@ Angle Shear
 
 .. image:: _images/angleshear.jpg
   :align: center
-  
+
 .. include:: <isonum.txt>
 
 Overview
@@ -41,7 +41,7 @@ Mitering
 
 .. image: _images/angleshearmiter.jpg
   :align: center
-  
+
 To cut a 30\ |deg| or 45\ |deg| miter cut on angle iron, use the following steps:
 
 1. Move the metal peg on the front of the angle shear to the upper postion \(45\ |deg|\) or lower position \(30\ |deg|\) depending on your needs
@@ -53,4 +53,3 @@ To cut a 30\ |deg| or 45\ |deg| miter cut on angle iron, use the following steps
 4. Press down onto the foot pedal until the angle iron is completely sheared.
 
 .. note:: The maximum material for mitering is 2\ |quot| x 2\ |quot| x 3\/8\ |quot| at 45\ |deg| **MILD STEEL ONLY!**
-

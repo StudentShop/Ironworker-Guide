@@ -5,7 +5,7 @@ Start-up
 
 The Control Panel
 -----------------
-   
+
 .. image:: _images/controlpanel2.jpg
       :align: center
 
@@ -27,4 +27,3 @@ Proper Start-Up Procedure is as follows:
 5. Press the Green START button to turn on the machine
 
 .. _`laser light`: _images/laserlight.jpg
-

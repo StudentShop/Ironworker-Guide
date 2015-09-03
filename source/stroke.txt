@@ -3,7 +3,7 @@ Stroke Control
 
 .. image:: _images/strokecontrol.jpg
   :align: center
-  
+
 Overview
 --------
 
@@ -12,10 +12,11 @@ The stroke control can be used to eliminate excessive free travel and increase p
 Operation
 ---------
 
-With the `selector arm in the **SHEAR** position`_, the top stroke control lever will determine how low the shear will go and the lower lever will determine how high up the shear will go.
+With the `selector arm in the **SHEAR** position`_, the top stroke control lever will determine how low the shear will go and the lower lever will determine how high up the shear will go.  Use the `shear foot pedal`_ to operate the bar shear, angle shear, brake, and tube notcher.
 
-With the `selector arm in the **PUNCH** position`_, the top stroke control lever will determine how high the punch will go and the lower stroke control will determine how low the punch will go.
+With the `selector arm in the **PUNCH** position`_, the top stroke control lever will determine how high the punch will go and the lower stroke control will determine how low the punch will go.  Use the `punch foot pedal`_ to operate the punches and coper notcher.
 
 .. _`selector arm in the **SHEAR** position`: _images/levershear.jpg
 .. _`selector arm in the **PUNCH** position`: _images/leverpunch.jpg
-
+.. _`shear foot pedal`: _images/shearpedal.jpg
+.. _`punch foot pedal`: _images/punchpedal.jpg

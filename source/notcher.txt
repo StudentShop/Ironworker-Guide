@@ -3,7 +3,7 @@ Notcher
 
 .. image:: _images/copernotchernoguard.jpg
   :align: center
-  
+
 This tool is operated with the selector lever in the **PUNCH** position.
 
 .. warning:: When the notcher station is not in use, be sure that the guard is in the furthermost down position, to prevent anyone from storing tools or material on the table or in the blade cavity.
@@ -24,7 +24,10 @@ Operation
 
 2. Lift the guard.
 
-3. Place the workpiece between the blades.  Cycle the machine until the blades have sheared through the material.  Continue to hold your foot on the pedal while you remove the material toward you on a horizontal plane.
+3. Apply `lubricant`_.
 
-4. Once the material is away from the blades, remove your foot from the pedal.  The machine will return to a neutral position, ready for the next cut.
+4. Place the workpiece between the blades.  Cycle the machine until the blades have sheared through the material.  Continue to hold your foot on the pedal while you remove the material toward you on a horizontal plane.
 
+5. Once the material is away from the blades, remove your foot from the pedal.  The machine will return to a neutral position, ready for the next cut.
+
+.. _`lubricant`: _images/tapmagic.jpg

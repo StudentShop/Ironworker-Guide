@@ -11,10 +11,10 @@ The Scotchman Model 50514-CM is a 50-Ton hydraulic powered ironworker.  This mac
 Permitted Material
 ------------------
 
-The Scotchman 50514-CM is to be used generally with mild steel.  It can also be used with non-ferrous metals such as aluminum and brass.  Using stainless steel with this machine is allowed, but with greater restrictions on capacity.  
+The Scotchman 50514-CM is to be used generally with mild steel.  It can also be used with non-ferrous metals such as aluminum and brass.  Using stainless steel with this machine is allowed, but with greater restrictions on capacity.
 
   .. warning:: Hardened steel and tool steels are **NEVER** to be used on this machine.  If you are unsure what type of material you have or if it can be used on the Scotchman, please ask Student Shop Staff.
-  
+
 Tool List
 ---------
 
@@ -129,4 +129,3 @@ Tube Notcher
 .. image:: _images/tubenotcher.jpg
 
 Used to :doc:`notch tube </tubenotcher>` for welding.
-
